@@ -5,5 +5,5 @@ I responsed to the varies of syntax from previous swift, which is the version th
 The code works on swift 3(and also swift 4) and Xcode 9.2.
 
 
-
+## Author
 * **Pengyu Chen** - [Github](https://github.com/EasonChan236)
